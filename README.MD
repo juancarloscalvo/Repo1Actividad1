@@ -4,3 +4,5 @@ Colaboradores:
 
 * Juan Carlos Calvo Villardon
 * Aida Reyes Galván 
+* Ángel López Ramírez
+* Enrique Maestre Nuñez
